@@ -367,6 +367,60 @@
 			"revisionTime": "2018-12-20T15:44:12Z"
 		},
 		{
+			"checksumSHA1": "AUMWVp0FuWMCGbVQ2cuDeTuTvtM=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/actions",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "43bzP9SgDZQyxToKjK9bA3W6IMY=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/clusters",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "p4eYIT1nz6UkX15jKJWLs20V6P0=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/nodes",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "6Xo4MWAaympOjplnXv34K85Agmk=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/policies",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "NQoCZ4hl+vIe1LvEa7WOcimq5Ow=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/policytypes",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "aOHuKTvBKsTeogm9KD5OOdbiHSw=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/profiles",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "BfSg5tloW009JjPzXvnaw+Aweck=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/profiletypes",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "7d9F65t3bUBLzROk2ypktTlzrE0=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/receivers",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
+			"checksumSHA1": "EPuvBgv/L9N4OFbuVsWfheQpgnk=",
+			"path": "github.com/gophercloud/gophercloud/openstack/clustering/v1/webhooks",
+			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
+			"revisionTime": "2018-12-20T15:44:12Z"
+		},
+		{
 			"checksumSHA1": "VVSFrp4kBIDK62D+uCgV8IScwD0=",
 			"path": "github.com/gophercloud/gophercloud/openstack/compute/v2/extensions/attachinterfaces",
 			"revision": "52046867450031e40bd4e94332fe5dbdf5cf51ca",
